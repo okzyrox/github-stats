@@ -17,7 +17,7 @@ svg {
 }
 
 #gh-dark-mode-only:target #background {
-  fill: #0d1117;
+  fill: #141321;
   stroke-width: 0.5px;
 }
 
@@ -32,8 +32,8 @@ h2 {
   line-height: 24px;
   font-size: 16px;
   font-weight: 600;
-  color: rgb(36, 41, 46);
-  fill: rgb(36, 41, 46);
+  color: rgb(254, 66, 142);
+  fill: rgb(254, 66, 142);
 }
 
 #gh-dark-mode-only:target h2 {
